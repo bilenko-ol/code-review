@@ -1,2 +1,2 @@
 # code-review
-![UML](./departament.png)
+![UML](department.png)
